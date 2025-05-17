@@ -3,6 +3,7 @@
 function loadFileList(element) {
   const files = [
       { name: "../data/chess.json", label: "Xadrez" },
+      { name: "../data/car.json", label: "Carro" },
       // { name: "../data/ing-family.json", label: "Palavras -ing" },
       { name: "../data/actions.json", label: "Ações" },
       { name: "../data/ing-family-short.json", label: "Palavras -ing" }
