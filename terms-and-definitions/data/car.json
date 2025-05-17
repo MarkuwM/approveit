@@ -1,0 +1,14 @@
+[
+    { "term": "Drive", "definition": "Dirigir" },
+    { "term": "Refuel", "definition": "Abastecer" },
+    { "term": "Brake", "definition": "Frear" },
+    { "term": "Accelerate", "definition": "Acelerar" },
+    { "term": "Change a tire", "definition": "Trocar um pneu" },
+    { "term": "Wash the car", "definition": "Lavar o carro" },
+    { "term": "Park", "definition": "Estacionar" },
+    { "term": "Check the oil", "definition": "Verificar o óleo" },
+    { "term": "Turn on the headlights", "definition": "Ligar os faróis" },
+    { "term": "Open the trunk", "definition": "Abrir o porta-malas" },
+    { "term": "Honk", "definition": "Buzinar" }
+  ]
+  
